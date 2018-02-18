@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BookListingApp</string>
+    <string name="search_hint">Search Play Books</string>
+    <string name="action_search">Search bar</string>
+    <string name="searchWidget_label">Search</string>
+    <string name="clearSearchHistory">Clear Search History</string>
+
+    <!-- Information on how to use the app -->
+    <string name="how_to">Use the search bar to find books</string>
+
+    <!-- Text to show when the ListView has no data to show -->
+    <string name="no_books">No books found</string>
+
+    <!-- Text to show when there is no internet connection -->
+    <string name="no_internet_connection">No internet connection</string>
+
+    <!-- Text to show when there is no author information for the book -->
+    <string name="no_author_info">No author information</string>
+</resources>
